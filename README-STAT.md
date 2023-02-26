@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://replit.com/@GenerieBergado/NFT-Preview-Card?v=1)
-- Live Site URL: [Add live site URL here](https://nft-preview-card.generiebergado.repl.co/)
+- Solution URL: [Add solution URL here](https://github.com/generieyyc/Frontend-Mentor-Stats-Preview.git)
+- Live Site URL: [Add live site URL here](https://generieyyc.github.io/Frontend-Mentor-Stats-Preview/)
 
 ## My process
 
@@ -66,7 +66,7 @@ This is my fourth  practice on flexbox. I am getting the hang of it but still lo
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusernamegenerieyyc)
+- Frontend Mentor - [@generieyyc](https://www.frontendmentor.io/profile/yourusernamegenerieyyc)
 
 
 ## Acknowledgments
