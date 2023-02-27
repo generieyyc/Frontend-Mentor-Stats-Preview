@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/generieyyc/Frontend-Mentor-Stats-Preview.git)
-- Live Site URL: [Add live site URL here](https://generieyyc.github.io/Frontend-Mentor-Stats-Preview/)
+- Solution URL: [Github Repo](https://github.com/generieyyc/Frontend-Mentor-Stats-Preview.git)
+- Live Site URL: [Live URL](https://generieyyc.github.io/Frontend-Mentor-Stats-Preview/)
 
 ## My process
 
